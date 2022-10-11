@@ -1,0 +1,38 @@
+.cabecalho {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding: 0.5em 0.5em 0.5em;
+}
+
+.link-cabecalho{
+
+    color: white;
+    padding-left: 90%;
+    font-size: 50%;
+}
+
+#alimentos{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+li{
+    cursor: pointer;
+}
+
+.rodape{
+    background-color: cornflowerblue;
+    color: white;
+    font-size:30px;
+}
+
+.taxas{
+    background-color:white;
+    color: black;
+}
+
+li:hover{
+    color: blue;
+}
