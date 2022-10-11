@@ -2,10 +2,10 @@
 <img style="max-width: 25%;"src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/88352f06b2fee7cdca32c3e12f5a68a4.jpg" alt="">
 
 
-<a href="#desc">.Descrição do projeto</a>
-<a href="#staus">.Status</a>
-<a href="#func">.Funcionalidades</a>
-<a href="#techs">.Tecnologias utilizadas</a>
+<a href="#desc">.Descrição do projeto</a> <br>
+<a href="#staus">.Status</a> <br>
+<a href="#func">.Funcionalidades</a> <br>
+<a href="#techs">.Tecnologias utilizadas</a> <br>
 
 
 <h3 id="desc">Descrição do projeto</h3><br>
@@ -31,4 +31,4 @@
 
 <p>.HTML</p> <br>
 <p>.CSS</p> <br>
-<p>JavaScript</p> <br>
+<p>.JavaScript</p> <br>
