@@ -1,16 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
 .cabecalho {
-    background-color: cornflowerblue;
+    background: linear-gradient(cornflowerblue, white) ;
     color: white;
     text-align: center;
     font-size: 50px;
     padding: 0.5em 0.5em 0.5em;
 }
 
+.titulo {
+    animation: titulo 2s ease-in-out;
+}
+
 .link-cabecalho{
 
-    color: white;
-    padding-left: 90%;
+    color: cornflowerblue;    
     font-size: 50%;
+}
+
+.links {
+    text-align: right;
+}
+
+@media (max-width: 500px) {
+    .links {
+        font-size: 45%;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        
+    }
+    
 }
 
 #alimentos{
@@ -23,16 +46,48 @@ li{
 }
 
 .rodape{
-    background-color: cornflowerblue;
+    background-color: cornflowerblue ;
     color: white;
     font-size:30px;
+    border-radius: 12px;
+    width: 100%;
+        
+    
 }
 
 .taxas{
     background-color:white;
-    color: black;
+    color: rgb(23, 124, 163);
 }
 
 li:hover{
     color: blue;
+}
+
+@keyframes titulo {
+    from{
+        font-size: 10%;
+    }
+    
+    to {
+        right: 100%;
+
+    }
+}
+
+img {
+
+    border-radius: 12px;
+}
+
+.enviar {
+
+    border-radius: 10px; 
+    width: 50%;   
+    font-size: 20px;
+}
+
+.porcentagem {
+
+    text-align: center;
 }

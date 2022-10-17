@@ -153,7 +153,7 @@ function somarNutri (element){
         },
 
         {
-            id: 15,
+            id: 16,
             nome: "cafe-leite",
             carboidrato: 4.04,
             proteina: 0.18,
@@ -162,7 +162,7 @@ function somarNutri (element){
         },
 
         {
-            id: 15,
+            id: 17,
             nome: "refrigerante",
             carboidrato: 10.50,
             proteina: 0,
@@ -171,7 +171,7 @@ function somarNutri (element){
         },
 
         {
-            id: 16,
+            id: 18,
             nome: "refrigerante-zero",
             carboidrato: 0,
             proteina: 0,
@@ -193,3 +193,4 @@ function somarNutri (element){
     sodio.innerHTML = contsodio;
     
 }
+
