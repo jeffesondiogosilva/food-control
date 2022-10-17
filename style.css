@@ -4,7 +4,7 @@ body {
 }
 
 .cabecalho {
-    background: linear-gradient(cornflowerblue, white) ;
+    background: linear-gradient(to right, cornflowerblue, white) ;
     color: white;
     text-align: center;
     font-size: 50px;
@@ -46,7 +46,7 @@ li{
 }
 
 .rodape{
-    background-color: cornflowerblue ;
+    background: linear-gradient(to right, cornflowerblue, white)  ;
     color: white;
     font-size:30px;
     border-radius: 12px;
