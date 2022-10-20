@@ -191,6 +191,18 @@ function somarNutri (element){
     gordura.innerHTML = contgordura;
     proteina.innerHTML = contproteina;
     sodio.innerHTML = contsodio;
+
+
+    const res_carboidrato = document.getElementById("res-carboidrato");
+    const res_gordura = document.getElementById("res-gordura");
+    const res_proteina = document.getElementById("res-proteina");
+    const res_sodio = document.getElementById("res-sodio");
+
+res_carboidrato.innerHTML = `Hoje você consumiu: ${contcarbo}g de carboidratos`;
+res_gordura.innerHTML = `Hoje você consumiu: ${contgordura}g de de gordura`;
+res_proteina.innerHTML = `Hoje você consumiu: ${contproteina}g de proteína`;
+res_sodio.innerHTML = `Hoje você consumiu: ${contsodio}mg de sódio`;
+
     
 }
 
