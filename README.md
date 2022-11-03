@@ -29,6 +29,6 @@
 
 <h3 id="techs">Tecnologias utilizadas</h3> <br>
 
-<p>.HTML</p> <br>
-<p>.CSS</p> <br>
-<p>.JavaScript</p> <br>
+<p>HTML</p> <br>
+<p>CSS</p> <br>
+<p>JavaScript</p> <br>
